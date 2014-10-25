@@ -1,0 +1,40 @@
+gitshell同事用于github与gitlab
+
+以前只使用一个 ssh key 在github上提交代码，由于工作原因，需要再添加一个ssh key在公司的 gitlab上提交代码，
+下面记录下配置过程，防止遗忘。
+
+说明下我的环境是 Win7 + msysgit + gitshell
+
+1.生成一个ssh key用于github（如果已有，且github能正常提交代码可跳过）gitshell中输入如下命令：
+        $ ssh-keygen -t rsa -C "youremail@yourcompany.com"
+如果是第一次生成ssh key，默认会在用户~（根目录）下生成 id_rsa, id_rsa.pub 2个文件，输入完命令后可以一直按回车；
+
+2.生成一个ssh key用于gitlab 同样：gitshell中输入：
+        $ ssh-keygen -t rsa -C "youremail@yourcompany.com"
+        注意不要一路回车，要给这个文件起一个名字，gitshell会给出如下提示：
+        Enter file in which to sava eht key:此时请输入一个名字： 
+        比如叫 id_rsa_gitlab, 所以相应的也会生成一个 id_rsa_gitlab.pub 文件，这个文件在gitshell工作的当前目录。
+        将id_rsa_gitlab和id_rsa_gitlab.pub复制到用户的根目录（C:\Users\Administrator.2013-20140713OV\.ssh中，
+        
+3.github官网中添加ssh key（如果有，且可以正常工作，可忽略）；
+将id_rsa中的内容添加到ssh keys中
+
+4.gitlab系统中添加ssh key
+将id_rsa_gitlab中的内容添加到ssh keys中
+
+5.gitshell添加私钥：
+$ ssh-add ~/.ssh/id_rsa
+$ ssh-add ~/.ssh/id_rsa_github
+
+6.修改配置文件：
+在 ~/.ssh 目录下新建一个config文件，添加如下内容
+# gitlab
+Host 192.168.1.122  #公司gitlab服务器ip
+    PreferredAuthentications publickey
+    IdentityFile ~/.ssh/id_rsa_gitlab
+
+# github
+Host github.com
+    PreferredAuthentications publickey
+    IdentityFile ~/.ssh/id_rsa
+
