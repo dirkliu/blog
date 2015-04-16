@@ -14,5 +14,5 @@
 4.Compilr:<a href="https://compilr.com/" target="_blank">Compilr</a>是一个在线编译器和在线IDE。可以用它来开发PHP, C, C++, Ruby。在浏览器中编译Java, C# 和 VB.net等。
 
 <h2>react</h2>
-<a href="React工具、资源、视频和实用内容集合：Awesome React" target="_blank">React工具、资源、视频和实用内容集合：Awesome React</a>http://www.open-open.com/lib/view/open1414507074372.html
+<a href="http://www.open-open.com/lib/view/open1414507074372.html" target="_blank">React工具、资源、视频和实用内容集合：Awesome React</a>
 
