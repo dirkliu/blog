@@ -6,8 +6,8 @@
 
 <h2>线上工具</h2>
 <ul>
-<li>1.jsLint: <a href="http://www.jslint.com/lint.html" target="_blank">JSLint is a JavaScript program that looks for problems in JavaScript programs.</a></li>
-<li>2.jsFiddle:<a href="http://jsfiddle.net/" target="_blank">在线代码编辑工具</a></li>
+<li>1.jsLint,jsHint: <a href="http://www.jslint.com/lint.html" target="_blank">JSLint is a JavaScript program that looks for problems in JavaScript programs.</a></li>
+<li>2.jsFiddle,jsBin:<a href="http://jsfiddle.net/" target="_blank">在线代码编辑工具</a></li>
 <li>3.Dabblet:<a href="http://dabblet.com/" target="_blank">HTML和CSS代码段在线测试工具</a></li>
 <li>4.Compilr:<a href="https://compilr.com/" target="_blank">Compilr</a>是一个在线编译器和在线IDE。可以用它来开发PHP, C, C++, Ruby。在浏览器中编译Java, C# 和 VB.net等。</li>
 </ul>
