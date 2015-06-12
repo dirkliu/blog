@@ -18,6 +18,6 @@
 <h2>sea.js</h2>
 <ul>
 <li><a href="https://github.com/dirkliu/blog/wiki/sea.js%E5%B8%B8%E7%94%A8API" target="_blank">sea.js常用API</a></li>
-<li><a href="https://github.com/dirkliu/blog/wiki/sea.js%E5%B8%B8%E7%94%A8API" target="_blank">CMD模块定义</a></li>
+<li><a href="https://github.com/dirkliu/blog/wiki/%E6%A8%A1%E5%9D%97%E6%A0%87%E8%AF%86" target="_blank">CMD模块定义</a></li>
 </ul>
 
