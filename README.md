@@ -28,4 +28,5 @@
 <li><a href="http://www.admin10000.com/" target="_blank">web开发者</a></li>
 <li><a href="http://www.w3cplus.com/" target="_blank">w3cplus</a></li>
 <li><a href="http://www.w3cfuns.com/" target="_blank">w3cfuns前端网</a></li>
+<li><a href="http://blog.jobbole.com//" target="_blank">伯乐在线</a></li>
 </ul>
