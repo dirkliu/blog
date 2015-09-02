@@ -31,4 +31,5 @@
 <li><a href="http://blog.jobbole.com/" target="_blank">伯乐在线</a></li>
 <li><a href="http://www.jsdaima.com/" target="_blank">JS特效代码大全</a></li>
 <li><a href="http://www.001daima.com/index.php" target="_blank">码工助手</a></li>
+<li><a href="http://www.w3ctech.com/" target="_blank">w3tech</a></li>
 </ul>
