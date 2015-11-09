@@ -23,6 +23,14 @@
 <li><a href="https://github.com/dirkliu/blog/wiki/%E6%A8%A1%E5%9D%97%E6%A0%87%E8%AF%86" target="_blank">CMD模块定义</a></li>
 </ul>
 
+<h2>前端构建</h2>
+<ul>
+<li><a href="http://fis.baidu.com/fis3/index.html">百度前端构建工具FIS3</a></li>
+<li><a href="http://www.gulpjs.com.cn/">Gulp——流式前端构建工具</a></li>
+<li><a href="http://www.gruntjs.net/">Grunt</a></li>
+<li><a href="http://www.yyyweb.com/ctools/demo.php?t=http%3A%2F%2Fwebpack.github.io%2F&h=2500&c=&n=webpack">webPack</a></li>
+</ul>
+
 <h2>web社区，论坛</h2>
 <ul>
 <li><a href="http://www.admin10000.com/" target="_blank">web开发者</a></li>
