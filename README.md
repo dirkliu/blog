@@ -15,7 +15,10 @@
 </ul>
 
 <h2>react</h2>
-<a href="http://www.open-open.com/lib/view/open1414507074372.html" target="_blank">React工具、资源、视频和实用内容集合：Awesome React</a>
+<ul>
+<li><a href="http://www.open-open.com/lib/view/open1414507074372.html" target="_blank">React工具、资源、视频和实用内容集合：Awesome React</a></li>
+<li><a href="http://reactjs.cn/">React中文社区</a></li>
+</ul>
 
 <h2>sea.js</h2>
 <ul>
@@ -40,4 +43,5 @@
 <li><a href="http://www.jsdaima.com/" target="_blank">JS特效代码大全</a></li>
 <li><a href="http://www.001daima.com/index.php" target="_blank">码工助手</a></li>
 <li><a href="http://www.w3ctech.com/" target="_blank">w3tech</a></li>
+<li><a href="https://segmentfault.com/">SEGMENTFAULT</a></li>
 </ul>
