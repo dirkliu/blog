@@ -46,3 +46,13 @@
 <li><a href="https://segmentfault.com/">SEGMENTFAULT</a></li>
 <li><a href="https://developer.mozilla.org/zh-CN/docs/Web">Mozila开发者！</a></li>
 </ul>
+
+<h2>面试题网站</h2>
+<ul>
+<li><a href="http://www.lintcode.com/">lintCode</a></li>
+<li><a href="http://hihocoder.com/">hihocoder</a></li>
+<li><a href="https://www.codewars.com">codewars</a></li>
+<li><a href="https://leetcode.com/">leetcode</a></li>
+<li><a href="https://www.nowcoder.com/">牛客网</a></li>
+<li><a href="http://www.acm.org/">国际计算机学会</a></li>
+</ul>
