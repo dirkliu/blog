@@ -14,6 +14,16 @@
 <li>6.<a href="https://www.processon.com/diagrams" target="_blank">processon</a>在线流程图编辑工具</li>
 </ul>
 
+<h2>JAVASCRIPT 动画库</h2>
+<ul>
+<li><a href="http://createjs.com/">CreateJS：一套模块化的库和工具，可以一起工作或独立工作，通过HTML5在开放的网络技术上实现丰富的互动内容。</a></li>
+<li><a href="https://github.com/SRI-SAVE/tow.js">towjs：three.js的简化使用</a></li>
+<li><a href="https://threejs.org/">javascript 3D动画：webGL</a></li>
+<li><a href="http://mojs.io/">运动图形工具箱</a></li>
+<li><a href="https://d3js.org/">D3.js是一个基于数据操作文档的JavaScript库</a></li>
+</ul>
+
+
 <h2>react</h2>
 <ul>
 <li><a href="http://www.open-open.com/lib/view/open1414507074372.html" target="_blank">React工具、资源、视频和实用内容集合：Awesome React</a></li>
