@@ -20,7 +20,8 @@ webpack 是一个现代的 JavaScript 应用程序的模块打包器(module bund
  webpack构建过程中的最小的一个资源单位，任何资源都可以作为一个模块
  * 块 （chunk）
  在code spliting（代码分离）中产生的资源，由module组成。
- * 代码分离   
+ * 代码分离  （code spliting） 
  代码分离是 webpack 中最引人注目的特性之一。你可以把你的代码分离到不同的 bundle 中，然后你就可以去按需加载这些文件
-
  ![webpack chunk和module的关系](http://img.blog.csdn.net/20161115172600571)
+ * 配置项 （configuration）  
+ webpack配置对象：根据不同的用法，有两种方式传递这个对象。CLI和node.js API  https://doc.webpack-china.org/api/node/
