@@ -30,6 +30,9 @@
 <li><a href="http://reactjs.cn/">React中文社区</a></li>
 </ul>
 
+<h2>vue</h2>
+<li><a href="https://segmentfault.com/p/1210000008583242/read?from=timeline" target="_blank">vue开源项目库汇总</a></li>
+
 <h2>sea.js</h2>
 <ul>
 <li><a href="https://github.com/dirkliu/blog/wiki/sea.js%E5%B8%B8%E7%94%A8API" target="_blank">sea.js常用API</a></li>
