@@ -56,6 +56,7 @@
 <li><a href="http://www.jsdaima.com/" target="_blank">JS特效代码大全</a></li>
 <li><a href="http://www.001daima.com/index.php" target="_blank">码工助手</a></li>
 <li><a href="http://www.w3ctech.com/" target="_blank">w3tech</a></li>
+<li><a href="https://www.awesomes.cn/rank?sort=hot" target="_blank">前端TOP100</a></li>
 <li><a href="https://segmentfault.com/">SEGMENTFAULT</a></li>
 <li><a href="https://developer.mozilla.org/zh-CN/docs/Web">Mozila开发者！</a></li>
 </ul>
