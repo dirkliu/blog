@@ -33,11 +33,8 @@
 <h2>vue</h2>
 <li><a href="https://segmentfault.com/p/1210000008583242/read?from=timeline" target="_blank">vue开源项目库汇总</a></li>
 
-<h2>sea.js</h2>
-<ul>
-<li><a href="https://github.com/dirkliu/blog/wiki/sea.js%E5%B8%B8%E7%94%A8API" target="_blank">sea.js常用API</a></li>
-<li><a href="https://github.com/dirkliu/blog/wiki/%E6%A8%A1%E5%9D%97%E6%A0%87%E8%AF%86" target="_blank">CMD模块定义</a></li>
-</ul>
+<h2>Git</h2>
+<li><a href="https://git-scm.com/book/zh/v2">Git线上中文手册</a></li>
 
 <h2>前端构建</h2>
 <ul>
