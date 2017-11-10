@@ -67,3 +67,10 @@
 <li><a href="https://www.nowcoder.com/">牛客网</a></li>
 <li><a href="http://www.acm.org/">国际计算机学会</a></li>
 </ul>
+
+<h2>web标准</h2>
+<ul>
+  <li><a href="https://www.w3.org/standards/techs/mathml#w3c_all" target="_blank">w3c</a></li>
+  <li><a href="http://www.ecma-international.org/ecma-262/5.1/" target="_blank">ecma</a></li>
+  <li><a href="https://html.spec.whatwg.org/multipage/introduction.html#audience" target="_blank">HTML Standard</a></li>
+</ul>
