@@ -68,7 +68,7 @@
 
 <h2>web标准</h2>
 <ul>
-  <li><a href="https://www.w3.org/standards/techs/mathml#w3c_all" target="_blank">w3c</a></li>
+  <li><a href="https://www.w3.org/TR/tr-technology-stds" target="_blank">w3c</a></li>
   <li><a href="http://www.ecma-international.org/publications/standards/Ecma-262-arch.htm" target="_blank">ecma</a></li>
   <li><a href="https://www.w3.org/Style/CSS/" target="_blank">css</a></li>
   <li><a href="https://www.w3.org/html/" target="_blank">html</a></li>
