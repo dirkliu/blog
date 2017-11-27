@@ -50,9 +50,9 @@
 <li><a href="http://www.w3ctech.com/" target="_blank">w3tech</a></li>
 <li><a href="https://segmentfault.com/">SEGMENTFAULT</a></li>
 <li><a href="https://developer.mozilla.org/zh-CN/docs/Web">Mozila开发者！</a></li>
-  <li><a href="https://forum.vuejs.org/latest">vue 论坛</a></li>
-  <li><a href="https://stackoverflow.com">stackoverflow</a></li>
-  <li><a href="https://discordapp.com/">Discord App</a></li>
+<li><a href="https://forum.vuejs.org/latest">vue 论坛</a></li>
+<li><a href="https://stackoverflow.com">stackoverflow</a></li>
+<li><a href="https://discordapp.com/">Discord App</a></li>
 </ul>
 
 <h2>面试题网站</h2>
