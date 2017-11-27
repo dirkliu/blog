@@ -39,21 +39,20 @@
 <li><a href="http://fis.baidu.com/fis3/index.html">百度前端构建工具FIS3</a></li>
 <li><a href="http://www.gulpjs.com.cn/">Gulp——流式前端构建工具</a></li>
 <li><a href="http://www.gruntjs.net/">Grunt</a></li>
-<li><a href="http://www.yyyweb.com/ctools/demo.php?t=http%3A%2F%2Fwebpack.github.io%2F&h=2500&c=&n=webpack">webPack</a></li>
+<li><a href="https://webpack.js.org/">webPack</a></li>
+  <li><a href="https://rollupjs.org/zh">rollup</a></li>
 </ul>
 
 <h2>web社区，论坛</h2>
 <ul>
-<li><a href="http://www.admin10000.com/" target="_blank">web开发者</a></li>
-<li><a href="http://www.w3cplus.com/" target="_blank">w3cplus</a></li>
 <li><a href="http://www.w3cfuns.com/" target="_blank">w3cfuns前端网</a></li>
-<li><a href="http://blog.jobbole.com/" target="_blank">伯乐在线</a></li>
 <li><a href="http://www.jsdaima.com/" target="_blank">JS特效代码大全</a></li>
-<li><a href="http://www.001daima.com/index.php" target="_blank">码工助手</a></li>
 <li><a href="http://www.w3ctech.com/" target="_blank">w3tech</a></li>
-<li><a href="https://www.awesomes.cn/rank?sort=hot" target="_blank">前端TOP100</a></li>
 <li><a href="https://segmentfault.com/">SEGMENTFAULT</a></li>
 <li><a href="https://developer.mozilla.org/zh-CN/docs/Web">Mozila开发者！</a></li>
+  <li><a href="https://forum.vuejs.org/latest">vue 论坛</a></li>
+  <li><a href="https://stackoverflow.com">stackoverflow</a></li>
+  <li><a href="https://discordapp.com/">Discord App</a></li>
 </ul>
 
 <h2>面试题网站</h2>
