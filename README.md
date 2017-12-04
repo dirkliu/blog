@@ -53,6 +53,7 @@
 <li><a href="https://forum.vuejs.org/latest">vue 论坛</a></li>
 <li><a href="https://stackoverflow.com">stackoverflow</a></li>
 <li><a href="https://discordapp.com/">Discord App</a></li>
+  <li><a href="http://www.regexbuddy.com/javascript.html" target="_blank">regexp 练习</a></li>
 </ul>
 
 <h2>面试题网站</h2>
