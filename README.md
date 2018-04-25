@@ -10,6 +10,7 @@
 <li>4.Compilr:<a href="https://compilr.com/" target="_blank">Compilr</a>是一个在线编译器和在线IDE。可以用它来开发PHP, C, C++, Ruby。在浏览器中编译Java, C# 和 VB.net等。</li>
 <li>5.<a href="http://naotu.baidu.com/edit.html" target="_blank">百度脑图:</a>便捷的脑图编辑工具。</li>
 <li>6.<a href="https://www.processon.com/diagrams" target="_blank">processon</a>在线流程图编辑工具</li>
+ <li>7.<a href="https://carrotsearch.com/foamtree/" target="_blank">性能查看工具</a></li>
 </ul>
 
 <h2>JAVASCRIPT 动画库</h2>
@@ -29,10 +30,14 @@
 </ul>
 
 <h2>vue</h2>
+<ul>
 <li><a href="https://segmentfault.com/p/1210000008583242/read?from=timeline" target="_blank">vue开源项目库汇总</a></li>
+</ul>
 
 <h2>Git</h2>
+<ul>
 <li><a href="https://git-scm.com/book/zh/v2">Git线上中文手册</a></li>
+</ul>
 
 <h2>前端构建</h2>
 <ul>
@@ -53,7 +58,7 @@
 <li><a href="https://forum.vuejs.org/latest">vue 论坛</a></li>
 <li><a href="https://stackoverflow.com">stackoverflow</a></li>
 <li><a href="https://discordapp.com/">Discord App</a></li>
-  <li><a href="http://www.regexbuddy.com/javascript.html" target="_blank">regexp 练习</a></li>
+<li><a href="http://www.regexbuddy.com/javascript.html" target="_blank">regexp 练习</a></li>
 </ul>
 
 <h2>面试题网站</h2>
