@@ -32,6 +32,7 @@
 <h2>vue</h2>
 <ul>
 <li><a href="https://segmentfault.com/p/1210000008583242/read?from=timeline" target="_blank">vue开源项目库汇总</a></li>
+ <li><a href="http://mpvue.com/">mpvue:美团vue小程序开发框架</a></li>
 </ul>
 
 <h2>Git</h2>
