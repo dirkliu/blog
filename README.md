@@ -47,6 +47,7 @@
 <li><a href="http://www.gruntjs.net/">Grunt</a></li>
 <li><a href="https://webpack.js.org/">webPack</a></li>
 <li><a href="https://rollupjs.org/zh">rollup</a></li>
+ <li><a href="https://www.parceljs.cn/">parcel</a></li>
 </ul>
 
 <h2>web社区，论坛</h2>
