@@ -15,11 +15,11 @@
 
 <h2>JAVASCRIPT 动画库</h2>
 <ul>
-<li><a href="http://createjs.com/">CreateJS：一套模块化的库和工具，可以一起工作或独立工作，通过HTML5在开放的网络技术上实现丰富的互动内容。</a></li>
-<li><a href="https://github.com/SRI-SAVE/tow.js">towjs：three.js的简化使用</a></li>
-<li><a href="https://threejs.org/">javascript 3D动画：webGL</a></li>
-<li><a href="http://mojs.io/">运动图形工具箱</a></li>
-<li><a href="https://d3js.org/">D3.js是一个基于数据操作文档的JavaScript库</a></li>
+<li><a href="http://createjs.com/" target="_blank">CreateJS：一套模块化的库和工具，可以一起工作或独立工作，通过HTML5在开放的网络技术上实现丰富的互动内容。</a></li>
+<li><a href="https://github.com/SRI-SAVE/tow.js" target="_blank">towjs：three.js的简化使用</a></li>
+<li><a href="https://threejs.org/" target="_blank">javascript 3D动画：webGL</a></li>
+<li><a href="http://mojs.io/" target="_blank">运动图形工具箱</a></li>
+<li><a href="https://d3js.org/" target="_blank">D3.js是一个基于数据操作文档的JavaScript库</a></li>
 </ul>
 
 
@@ -32,22 +32,22 @@
 <h2>vue</h2>
 <ul>
 <li><a href="https://segmentfault.com/p/1210000008583242/read?from=timeline" target="_blank">vue开源项目库汇总</a></li>
- <li><a href="http://mpvue.com/">mpvue:美团vue小程序开发框架</a></li>
+ <li><a href="http://mpvue.com/" target="_blank">mpvue:美团vue小程序开发框架</a></li>
 </ul>
 
 <h2>Git</h2>
 <ul>
-<li><a href="https://git-scm.com/book/zh/v2">Git线上中文手册</a></li>
+<li><a href="https://git-scm.com/book/zh/v2" target="_blank">Git线上中文手册</a></li>
 </ul>
 
 <h2>前端构建</h2>
 <ul>
-<li><a href="http://fis.baidu.com/fis3/index.html">百度前端构建工具FIS3</a></li>
-<li><a href="http://www.gulpjs.com.cn/">Gulp——流式前端构建工具</a></li>
-<li><a href="http://www.gruntjs.net/">Grunt</a></li>
-<li><a href="https://webpack.js.org/">webPack</a></li>
-<li><a href="https://rollupjs.org/zh">rollup</a></li>
- <li><a href="https://www.parceljs.cn/">parcel</a></li>
+<li><a href="http://fis.baidu.com/fis3/index.html" target="_blank">百度前端构建工具FIS3</a></li>
+<li><a href="http://www.gulpjs.com.cn/" target="_blank">Gulp——流式前端构建工具</a></li>
+<li><a href="http://www.gruntjs.net/" target="_blank">Grunt</a></li>
+<li><a href="https://webpack.js.org/" target="_blank">webPack</a></li>
+<li><a href="https://rollupjs.org/zh" target="_blank">rollup</a></li>
+ <li><a href="https://www.parceljs.cn/" target="_blank">parcel</a></li>
 </ul>
 
 <h2>web社区，论坛</h2>
@@ -65,12 +65,12 @@
 
 <h2>面试题网站</h2>
 <ul>
-<li><a href="http://www.lintcode.com/">lintCode</a></li>
-<li><a href="http://hihocoder.com/">hihocoder</a></li>
-<li><a href="https://www.codewars.com">codewars</a></li>
-<li><a href="https://leetcode.com/">leetcode</a></li>
-<li><a href="https://www.nowcoder.com/">牛客网</a></li>
-<li><a href="http://www.acm.org/">国际计算机学会</a></li>
+<li><a href="http://www.lintcode.com/" target="_blank">lintCode</a></li>
+<li><a href="http://hihocoder.com/" target="_blank">hihocoder</a></li>
+<li><a href="https://www.codewars.com" target="_blank">codewars</a></li>
+<li><a href="https://leetcode.com/" target="_blank">leetcode</a></li>
+<li><a href="https://www.nowcoder.com/" target="_blank">牛客网</a></li>
+<li><a href="http://www.acm.org/" target="_blank">国际计算机学会</a></li>
 </ul>
 
 <h2>web标准</h2>
