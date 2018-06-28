@@ -47,7 +47,7 @@
 <li><a href="http://www.gruntjs.net/" target="_blank">Grunt</a></li>
 <li><a href="https://webpack.js.org/" target="_blank">webPack</a></li>
 <li><a href="https://rollupjs.org/zh" target="_blank">rollup</a></li>
- <li><a href="https://www.parceljs.cn/" target="_blank">parcel</a></li>
+<li><a href="https://www.parceljs.cn/" target="_blank">parcel</a></li>
 </ul>
 
 <h2>web社区，论坛</h2>
@@ -61,6 +61,7 @@
 <li><a href="https://stackoverflow.com">stackoverflow</a></li>
 <li><a href="https://discordapp.com/">Discord App</a></li>
 <li><a href="http://www.regexbuddy.com/javascript.html" target="_blank">regexp 练习</a></li>
+ <li><a href="https://docschina.org" target="_blank">印记中文，各种官方文档</a></li>
 </ul>
 
 <h2>面试题网站</h2>
