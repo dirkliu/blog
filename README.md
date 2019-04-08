@@ -53,7 +53,6 @@
 <h2>web社区，论坛</h2>
 <ul>
 <li><a href="http://www.w3cfuns.com/" target="_blank">w3cfuns前端网</a></li>
-<li><a href="http://www.jsdaima.com/" target="_blank">JS特效代码大全</a></li>
 <li><a href="http://www.w3ctech.com/" target="_blank">w3tech</a></li>
 <li><a href="https://segmentfault.com/">SEGMENTFAULT</a></li>
 <li><a href="https://developer.mozilla.org/zh-CN/docs/Web">Mozila开发者！</a></li>
@@ -61,7 +60,8 @@
 <li><a href="https://stackoverflow.com">stackoverflow</a></li>
 <li><a href="https://discordapp.com/">Discord App</a></li>
 <li><a href="http://www.regexbuddy.com/javascript.html" target="_blank">regexp 练习</a></li>
- <li><a href="https://docschina.org" target="_blank">印记中文，各种官方文档</a></li>
+<li><a href="https://docschina.org" target="_blank">印记中文，各种官方文档</a></li>
+<li><a href="https://developers.google.cn/china/" target="_blank">Google 中国开发者</a></li>
 </ul>
 
 <h2>面试题网站</h2>
