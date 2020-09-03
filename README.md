@@ -49,9 +49,9 @@
 <li><a href="http://fis.baidu.com/fis3/index.html" target="_blank">百度前端构建工具FIS3</a></li>
 <li><a href="http://www.gulpjs.com.cn/" target="_blank">Gulp——流式前端构建工具</a></li>
 <li><a href="http://www.gruntjs.net/" target="_blank">Grunt</a></li>
-<li><a href="https://webpack.js.org/" target="_blank">webPack</a></li>
-<li><a href="https://rollupjs.org/zh" target="_blank">rollup</a></li>
-<li><a href="https://www.parceljs.cn/" target="_blank">parcel</a></li>
+<li><a href="https://webpack.js.org/" target="_blank">WebPack</a></li>
+<li><a href="https://rollupjs.org/zh" target="_blank">Rollup</a></li>
+<li><a href="https://www.parceljs.cn/" target="_blank">Parcel</a></li>
 <li><a href="http://browserify.org/" target="_blank">Browserify</a></li>
 </ul>
 
