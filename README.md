@@ -52,6 +52,7 @@
 <li><a href="https://webpack.js.org/" target="_blank">webPack</a></li>
 <li><a href="https://rollupjs.org/zh" target="_blank">rollup</a></li>
 <li><a href="https://www.parceljs.cn/" target="_blank">parcel</a></li>
+<li><a href="http://browserify.org/" target="_blank">Browserify</a></li>
 </ul>
 
 <h2>web社区，论坛</h2>
