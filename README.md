@@ -53,6 +53,7 @@
 <li><a href="https://rollupjs.org/zh" target="_blank">Rollup</a></li>
 <li><a href="https://www.parceljs.cn/" target="_blank">Parcel</a></li>
 <li><a href="http://browserify.org/" target="_blank">Browserify</a></li>
+ <li><a href="https://istanbul.js.org/">istanbul: JavaScript的代码覆盖率检查工具</a></li>
 </ul>
 
 <h2>web社区，论坛</h2>
