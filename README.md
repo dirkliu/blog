@@ -10,7 +10,6 @@
 <li>4.Compilr:<a href="https://compilr.com/" target="_blank">Compilr</a>是一个在线编译器和在线IDE。可以用它来开发PHP, C, C++, Ruby。在浏览器中编译Java, C# 和 VB.net等。</li>
 <li>5.<a href="http://naotu.baidu.com/edit.html" target="_blank">百度脑图:</a>便捷的脑图编辑工具。</li>
 <li>6.<a href="https://www.processon.com/diagrams" target="_blank">processon</a>在线流程图编辑工具</li>
- <li>7.<a href="https://carrotsearch.com/foamtree/" target="_blank">性能查看工具</a></li>
 </ul>
 
 <h2>JAVASCRIPT 动画库</h2>
@@ -22,9 +21,12 @@
 <li><a href="https://d3js.org/" target="_blank">D3.js是一个基于数据操作文档的JavaScript库</a></li>
 </ul>
 
-<h2>集成工具</h2>
+<h2>工具合集</h2>
 <ul>
- <li><a href="https://www.apifox.cn/" target="_blank">Apifox</a></li>
+ <li><a href="https://www.apifox.cn/" target="_blank">继承测试，mock等的工具：Apifox</a></li>
+ <li><a href="https://carrotsearch.com/foamtree/" target="_blank">foamtree:性能查看工具</a></li>
+ <li><a href="https://istanbul.js.org/">istanbul: JavaScript的代码覆盖率检查工具</a></li>
+ <li><a href="https://istanbul.js.org/">YARN: node的包管理器</a></li>
 </ul>
 
 <h2>react</h2>
@@ -53,7 +55,6 @@
 <li><a href="https://rollupjs.org/zh" target="_blank">Rollup</a></li>
 <li><a href="https://www.parceljs.cn/" target="_blank">Parcel</a></li>
 <li><a href="http://browserify.org/" target="_blank">Browserify</a></li>
- <li><a href="https://istanbul.js.org/">istanbul: JavaScript的代码覆盖率检查工具</a></li>
 </ul>
 
 <h2>web社区，论坛</h2>
