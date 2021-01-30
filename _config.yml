@@ -1,0 +1,8 @@
+title: Blog
+description: 日志记录
+google_analytics: USfasdfa
+show_downloads: true
+theme: jekyll-theme-midnight
+
+gems:
+  - jekyll-mentions
