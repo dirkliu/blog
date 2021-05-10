@@ -10,6 +10,11 @@
 <li>4.Compilr:<a href="https://compilr.com/" target="_blank">Compilr</a>是一个在线编译器和在线IDE。可以用它来开发PHP, C, C++, Ruby。在浏览器中编译Java, C# 和 VB.net等。</li>
 <li>5.<a href="http://naotu.baidu.com/edit.html" target="_blank">百度脑图:</a>便捷的脑图编辑工具。</li>
 <li>6.<a href="https://www.processon.com/diagrams" target="_blank">processon</a>在线流程图编辑工具</li>
+ <li>7.<a href="https://tool.lu/" target="_blank">tool.lu:各种在线小工具，比如：代码格式化、压缩、加密、解密，下载链接转换，sql 工具，正则测试工
+具，favicon 在线制作，字帖工具，中文简繁体转换，迅雷下载链接转换，进制转换，二维码。</a></li>
+<li>8.<a href="http://tooool.org/" target="_blank">tooool:程序员工具导航</a></li>
+<li>9.<a href="https://mubu.com/" target="_blank">幕布</a><li>
+<li>10.<a href="https://codepen.io/" target="_blank">codepen:在线代码编辑预览</a></li>
 </ul>
 
 <h2>JAVASCRIPT 动画库</h2>
@@ -55,6 +60,11 @@
 <li><a href="https://rollupjs.org/zh" target="_blank">Rollup</a></li>
 <li><a href="https://www.parceljs.cn/" target="_blank">Parcel</a></li>
 <li><a href="http://browserify.org/" target="_blank">Browserify</a></li>
+<li><a href="https://esbuild.github.io/" target="_blank">ESBUILD</a></li>
+<li><a href="https://vitejs.dev" target="_blank">Vite</a></li>
+<li><a href="https://www.tslang.cn/docs/home.html" target="_blank">Typescript官方文档</a></li>
+<li><a href="https://www.snowpack.dev">Snowpack</a></li>
+<li><a href="https://babeljs.io/docs/setup/#installation">Babel</a></li>
 </ul>
 
 <h2>web社区，论坛</h2>
@@ -69,8 +79,10 @@
 <li><a href="http://www.regexbuddy.com/javascript.html" target="_blank">regexp 练习</a></li>
 <li><a href="https://docschina.org" target="_blank">印记中文，各种官方文档</a></li>
 <li><a href="https://developers.google.cn/china/" target="_blank">Google 中国开发者</a></li>
- <li><a href="http://www.cnpaf.net/Class/ProtocolAll/">互联网协议大全</a></li>
- <li><a href="https://docschina.org/">印记中国：中文技术资料集锦</a></li>
+ <li><a href="http://www.cnpaf.net/Class/ProtocolAll/" target="_blank">互联网协议大全</a></li>
+ <li><a href="https://docschina.org/" target="_blank">印记中国：中文技术资料集锦</a></li>
+ <li><a href="http://ebook.blinkol.com" target="_blank">电子书搜索</a></li>
+ <li><a href="https://gitbook.cn/" target="_blank">GitChat</a></li>
 </ul>
 
 <h2>面试题网站</h2>
