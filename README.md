@@ -83,6 +83,7 @@
  <li><a href="https://docschina.org/" target="_blank">印记中国：中文技术资料集锦</a></li>
  <li><a href="http://ebook.blinkol.com" target="_blank">电子书搜索</a></li>
  <li><a href="https://gitbook.cn/" target="_blank">GitChat</a></li>
+ <li><a href="https://www.bookstack.cn/" target="_blank">书栈网：好多技术书籍</a></li>
 </ul>
 
 <h2>面试题网站</h2>
