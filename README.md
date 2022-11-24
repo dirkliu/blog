@@ -84,6 +84,9 @@
  <li><a href="http://ebook.blinkol.com" target="_blank">电子书搜索</a></li>
  <li><a href="https://gitbook.cn/" target="_blank">GitChat</a></li>
  <li><a href="https://www.bookstack.cn/" target="_blank">书栈网：好多技术书籍</a></li>
+ <li><a href="https://restcookbook.com/" target="_blank">Rest: restcookbook</a></li>
+ <li><a href="https://www.restapitutorial.com/" target="_blank">Rest: restapitutorial<a></li>
+ <li><a href="https://www.service-architecture.com/" traget="_blank">服务架构:service-architecture</a></li>
 </ul>
 
 <h2>面试题网站</h2>
