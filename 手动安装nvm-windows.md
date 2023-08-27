@@ -10,12 +10,12 @@
 4. 修改用户变量Path，添加%NVM_HOME%;%NVM_SYMLINK%至末尾。
 
 ### 创建settings.txt
-在安装目录新建settings.text
-``` 
-  root: nvm安装路径，
-  path： NVM_SYMLINK指定的路径
-  proxy: none,
-  arch: 64
+在安装目录新建settings.txt
+```
+root: nvm安装路径，
+path： NVM_SYMLINK指定的路径
+proxy: none,
+arch: 64
 ```
 
 ### 参考
