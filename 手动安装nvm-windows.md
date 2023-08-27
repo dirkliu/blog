@@ -12,9 +12,9 @@
 ### 创建settings.txt
 在安装目录新建settings.txt
 ```
-root: nvm安装路径，
+root: nvm安装路径
 path： NVM_SYMLINK指定的路径
-proxy: none,
+proxy: none
 arch: 64
 ```
 
