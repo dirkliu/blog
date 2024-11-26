@@ -17,14 +17,14 @@ gitshell同时用于github与gitlab
         将id_rsa_gitlab和id_rsa_gitlab.pub复制到用户的根目录（C:\Users\Administrator.2013-20140713OV\.ssh中，
         
 3.github官网中添加ssh key（如果有，且可以正常工作，可忽略）；
-将id_rsa中的内容添加到ssh keys中
+将id_rsa.pub中的内容添加到ssh keys中
 
 4.gitlab系统中添加ssh key
-将id_rsa_gitlab中的内容添加到ssh keys中
+将id_rsa_gitlab.pub中的内容添加到ssh keys中
 
 5.gitshell添加私钥：
 $ ssh-add ~/.ssh/id_rsa
-$ ssh-add ~/.ssh/id_rsa_github
+$ ssh-add ~/.ssh/id_rsa_gitlab
 
 6.修改配置文件：
 在 ~/.ssh 目录下新建一个config文件，添加如下内容
